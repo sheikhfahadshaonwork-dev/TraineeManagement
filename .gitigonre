@@ -1,0 +1,76 @@
+# .gitignore for Visual Studio, .NET, and C#
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+## NuGet packages
+*.nupkg
+# The packages folder can be ignored if you use package restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## Visual Studio Code workspace
+.vscode/
+
+## Rider
+.idea/
+
+## DotCover
+*.dotCover
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Publish output
+[Dd]ist/
+[Pp]ublish/
+*.pubxml
+*.publishproj
+
+## Others
+*.dbmdl
+*.pdb
+*.cache
+*.config
+*.pidb
+*.svclog
+*.scc
+
+## Entity Framework
+Migrations/
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+## npm packages
+node_modules/
+
+## Mac files
+.DS_Store
+
+## Windows image file caches
+Thumbs.db
+
+## Temporary files
+~$*
+*.tmp
+
+# End of .gitignore

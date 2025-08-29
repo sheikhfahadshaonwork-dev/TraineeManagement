@@ -1,0 +1,151 @@
+[
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "get",
+    "RelativePath": "Trainee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "get",
+    "RelativePath": "Trainee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "add",
+    "RelativePath": "Trainee/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainee",
+        "Type": "NiftyCoders.Services.TraineeManagement.Business.Models.TraineeCreateRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "getByEmail",
+    "RelativePath": "Trainee/get-by-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "getByTrainningPeriod",
+    "RelativePath": "Trainee/get-by-trainning-period",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainningPeriod",
+        "Type": "NiftyCoders.Services.TraineeManagement.Business.Models.TrainningPeriodRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "getByUniversity",
+    "RelativePath": "Trainee/get-by-university",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "universityName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "getByYear",
+    "RelativePath": "Trainee/get-by-year",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "remove",
+    "RelativePath": "Trainee/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "NiftyCoders.Services.TraineeManagement.Business.Models.EmailRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NiftyCoders.Services.TraineeManagement.Controllers.TraineeController",
+    "Method": "updateName",
+    "RelativePath": "Trainee/update-name",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainee",
+        "Type": "NiftyCoders.Services.TraineeManagement.Business.Models.NameUpdateRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

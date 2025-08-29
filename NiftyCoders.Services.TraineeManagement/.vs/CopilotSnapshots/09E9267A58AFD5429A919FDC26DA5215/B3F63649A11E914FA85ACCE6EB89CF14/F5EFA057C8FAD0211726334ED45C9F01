@@ -1,0 +1,60 @@
+﻿using NiftyCoders.Services.TraineeManagement.Persistence.Entities;
+using System.Collections.Generic;
+using System;
+
+namespace NiftyCoders.Services.TraineeManagement.Persistence;
+
+public static class Database
+{
+    public static List<UniversityEntity> Universities = new List<UniversityEntity>
+    {
+        new UniversityEntity("MIT", "Cambridge, MA"),
+        new UniversityEntity("Stanford", "Stanford, CA"),
+        new UniversityEntity("Harvard", "Cambridge, MA"),
+        new UniversityEntity("Caltech", "Pasadena, CA"),
+        new UniversityEntity("Oxford", "Oxford, UK"),
+        new UniversityEntity("Cambridge", "Cambridge, UK"),
+        new UniversityEntity("ETH Zurich", "Zurich, Switzerland"),
+        new UniversityEntity("Tokyo University", "Tokyo, Japan"),
+        new UniversityEntity("University of Toronto", "Toronto, Canada"),
+        new UniversityEntity("National University of Singapore", "Singapore")
+    };
+
+    public static List<TrainningPeriodEntity> TrainningPeriods = new List<TrainningPeriodEntity>
+    {
+        new TrainningPeriodEntity(new DateTime(2025, 1, 1), new DateTime(2025, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2025, 7, 1), new DateTime(2025, 12, 31)),
+        new TrainningPeriodEntity(new DateTime(2026, 1, 1), new DateTime(2026, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2026, 7, 1), new DateTime(2026, 12, 31)),
+        new TrainningPeriodEntity(new DateTime(2027, 1, 1), new DateTime(2027, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2027, 7, 1), new DateTime(2027, 12, 31)),
+        new TrainningPeriodEntity(new DateTime(2028, 1, 1), new DateTime(2028, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2028, 7, 1), new DateTime(2028, 12, 31)),
+        new TrainningPeriodEntity(new DateTime(2029, 1, 1), new DateTime(2029, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2029, 7, 1), new DateTime(2029, 12, 31))
+    };
+
+    public static List<TraineeEntity> Trainees = new List<TraineeEntity>
+    {
+        new TraineeEntity("Alice Smith", "alice@mit.edu", TrainningPeriods[0], Universities[0]),
+        new TraineeEntity("Bob Johnson", "bob@stanford.edu", TrainningPeriods[1], Universities[1]),
+        new TraineeEntity("Carol Lee", "carol@harvard.edu", TrainningPeriods[2], Universities[2]),
+        new TraineeEntity("David Kim", "david@caltech.edu", TrainningPeriods[3], Universities[3]),
+        new TraineeEntity("Eva Brown", "eva@oxford.ac.uk", TrainningPeriods[4], Universities[4]),
+        new TraineeEntity("Frank Green", "frank@cam.ac.uk", TrainningPeriods[5], Universities[5]),
+        new TraineeEntity("Grace White", "grace@ethz.ch", TrainningPeriods[6], Universities[6]),
+        new TraineeEntity("Hiro Tanaka", "hiro@tokyo-u.ac.jp", TrainningPeriods[7], Universities[7]),
+        new TraineeEntity("Isabel Martinez", "isabel@utoronto.ca", TrainningPeriods[8], Universities[8]),
+        new TraineeEntity("Jack Lim", "jack@nus.edu.sg", TrainningPeriods[9], Universities[9]),
+        new TraineeEntity("Liam Carter", "liam@mit.edu", TrainningPeriods[1], Universities[0]),
+        new TraineeEntity("Mia Chen", "mia@stanford.edu", TrainningPeriods[2], Universities[1]),
+        new TraineeEntity("Noah Patel", "noah@harvard.edu", TrainningPeriods[3], Universities[2]),
+        new TraineeEntity("Olivia Park", "olivia@caltech.edu", TrainningPeriods[4], Universities[3]),
+        new TraineeEntity("Paul Singh", "paul@oxford.ac.uk", TrainningPeriods[5], Universities[4]),
+        new TraineeEntity("Quinn Adams", "quinn@cam.ac.uk", TrainningPeriods[6], Universities[5]),
+        new TraineeEntity("Ruby Clark", "ruby@ethz.ch", TrainningPeriods[7], Universities[6]),
+        new TraineeEntity("Sam Evans", "sam@tokyo-u.ac.jp", TrainningPeriods[8], Universities[7]),
+        new TraineeEntity("Tina Gomez", "tina@utoronto.ca", TrainningPeriods[9], Universities[8]),
+        new TraineeEntity("Uma Shah", "uma@nus.edu.sg", TrainningPeriods[0], Universities[9])
+    };
+}

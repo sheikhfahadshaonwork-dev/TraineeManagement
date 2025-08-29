@@ -1,0 +1,28 @@
+﻿using NiftyCoders.Services.TraineeManagement.Persistence.Entities;
+using System.Collections.Generic;
+using System;
+
+namespace NiftyCoders.Services.TraineeManagement.Persistence;
+
+public static class Database
+{
+    public static List<UniversityEntity> Universities = new List<UniversityEntity>
+    {
+        new UniversityEntity("MIT", "Cambridge, MA"),
+        new UniversityEntity("Stanford", "Stanford, CA"),
+        new UniversityEntity("Harvard", "Cambridge, MA")
+    };
+
+    public static List<TrainningPeriodEntity> TrainningPeriods = new List<TrainningPeriodEntity>
+    {
+        new TrainningPeriodEntity(new DateTime(2025, 1, 1), new DateTime(2025, 6, 1)),
+        new TrainningPeriodEntity(new DateTime(2025, 7, 1), new DateTime(2025, 12, 31))
+    };
+
+    public static List<TraineeEntity> Trainees = new List<TraineeEntity>
+    {
+        new TraineeEntity("Alice Smith", "alice@mit.edu", TrainningPeriods[0], Universities[0]),
+        new TraineeEntity("Bob Johnson", "bob@stanford.edu", TrainningPeriods[1], Universities[1]),
+        new TraineeEntity("Carol Lee", "carol@harvard.edu", TrainningPeriods[0], Universities[2])
+    };
+}

@@ -1,0 +1,6 @@
+@NiftyCoders.Services.TraineeManagement_HostAddress = http://localhost:5044
+
+GET {{NiftyCoders.Services.TraineeManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
