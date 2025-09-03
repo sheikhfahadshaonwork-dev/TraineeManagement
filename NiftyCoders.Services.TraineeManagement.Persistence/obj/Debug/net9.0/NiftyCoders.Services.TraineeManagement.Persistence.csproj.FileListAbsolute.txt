@@ -9,3 +9,7 @@ C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Service
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\refint\NiftyCoders.Services.TraineeManagement.Persistence.dll
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Persistence.pdb
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\ref\NiftyCoders.Services.TraineeManagement.Persistence.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Persistence.sourcelink.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\bin\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Persistence.runtimeconfig.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Persistence\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Persistence.genruntimeconfig.cache

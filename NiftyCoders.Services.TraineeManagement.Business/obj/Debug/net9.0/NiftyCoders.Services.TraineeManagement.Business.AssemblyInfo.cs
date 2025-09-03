@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NiftyCoders.Services.TraineeManagement.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253a1f4656190c37fea24a4f3107ad0c5f78532a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NiftyCoders.Services.TraineeManagement.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NiftyCoders.Services.TraineeManagement.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

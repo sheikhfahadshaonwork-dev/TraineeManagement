@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace NiftyCoders.Services.TraineeManagement.Persistence.Entities;
 
-public class TrainningPeriodEntity
+public class TrainningPeriod
 {
     private static int _availableId = 1;
     public int Id { get; set; }
-    public DateTime StartDate { get; set; }
-    public DateTime EndDate { get; set; }
-    public TrainningPeriodEntity(DateTime startDate, DateTime endDate)
+    public DateOnly StartDate { get; set; }
+    public DateOnly EndDate { get; set; }
+
+    public List<Trainee> Trainees { get; set; }
+
+    public void TainningPeriod() { }
+    public TrainningPeriod(DateOnly startDate)
     {
-        Id = _availableId++;
         StartDate = startDate;
-        EndDate = endDate;
+        EndDate = startDate.AddMonths(4);
     }
 }

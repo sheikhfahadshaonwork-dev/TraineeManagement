@@ -13,3 +13,4 @@ C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Service
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Business\obj\Debug\net9.0\refint\NiftyCoders.Services.TraineeManagement.Business.dll
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Business\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Business.pdb
 C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Business\obj\Debug\net9.0\ref\NiftyCoders.Services.TraineeManagement.Business.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\29-08-2025\NiftyCoders.Services.TraineeManagement.Business\obj\Debug\net9.0\NiftyCoders.Services.TraineeManagement.Business.sourcelink.json
