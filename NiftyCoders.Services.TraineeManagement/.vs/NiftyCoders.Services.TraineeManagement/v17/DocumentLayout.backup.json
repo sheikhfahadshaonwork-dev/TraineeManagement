@@ -7,49 +7,73 @@
       "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\services\\traineeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\traineeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\services\\itraineeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\models\\traineeupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\models\\nameupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\repositories\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\models\\traineeresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\models\\emailrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\traineecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\models\\traineecreaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\itraineeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entities\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\models\\trainningperiodrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\models\\traineecreaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\models\\traineeresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\itraineecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entities\\traineeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\itraineedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\repositories\\universityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\itraineefetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\repositories\\trainningperiodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\traineedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\traineefetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\models\\nameupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A9DB3E-2AE9-4A94-B3EC-D230B61A24F4}|..\\NiftyCoders.Services.TraineeManagement.Business\\NiftyCoders.Services.TraineeManagement.Business.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.business\\traineeservices\\models\\trainningperiodrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entities\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entities\\trainningperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entitytypeconfiguration\\universityentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\entitytypeconfiguration\\trainningperiodentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC98231E-475E-4AC6-80F4-031EE94E88C3}|..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement.persistence\\niftycoders.services.traineemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|c:\\users\\sheikhfahadshaon\\desktop\\trainee program\\29-08-2025\\niftycoders.services.traineemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AD496CD-1433-40C2-A7F4-8FF1188EB25B}|NiftyCoders.Services.TraineeManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,73 +83,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NameUpdateRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\NameUpdateRequestModel.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\NameUpdateRequestModel.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\NameUpdateRequestModel.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\NameUpdateRequestModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:07:50.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TraineeServices.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Services\\TraineeServices.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Services\\TraineeServices.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Services\\TraineeServices.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Services\\TraineeServices.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEgAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:15:09.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TraineeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TraineeRepository.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TraineeRepository.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TraineeRepository.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TraineeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:57:17.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:28:43.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITraineeServices.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Services\\ITraineeServices.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Services\\ITraineeServices.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Services\\ITraineeServices.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Services\\ITraineeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:57:45.15Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -134,127 +93,292 @@
               "RelativeDocumentMoniker": "Controllers\\TraineeController.cs",
               "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Controllers\\TraineeController.cs",
               "RelativeToolTip": "Controllers\\TraineeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1gAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:22:55.979Z",
+              "WhenOpened": "2025-09-02T12:54:46.468Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Middlewares\\ExceptionMiddleware.cs",
               "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:29:58.052Z",
+              "WhenOpened": "2025-09-02T11:08:20.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraineeUpdateRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeUpdateRequestModel.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeUpdateRequestModel.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeUpdateRequestModel.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeUpdateRequestModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:55:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraineeResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeResponseModel.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeResponseModel.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:12:34.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "TraineeCreateRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeCreateRequestModel.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeCreateRequestModel.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeCreateRequestModel.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeCreateRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeCreateRequestModel.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeCreateRequestModel.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeCreateRequestModel.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TraineeCreateRequestModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:22:42.796Z",
+              "WhenOpened": "2025-09-02T12:15:40.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\EmailRequestModel.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\EmailRequestModel.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\EmailRequestModel.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\EmailRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TraineeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeUpdate.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeUpdate.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeUpdate.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:54:05.492Z",
+              "WhenOpened": "2025-09-03T05:30:53.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "Title": "ITraineeCreator.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeCreator.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeCreator.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeCreator.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeCreator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-29T04:00:53.343Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:49:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITraineeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeUpdate.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeUpdate.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeUpdate.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:30:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraineeCreator.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeCreator.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeCreator.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeCreator.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeCreator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:36:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\Trainee.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\Trainee.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\Trainee.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\Trainee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:10:58.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TrainningPeriodRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TrainningPeriodRequestModel.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TrainningPeriodRequestModel.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TrainningPeriodRequestModel.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TrainningPeriodRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ITraineeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeDelete.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeDelete.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeDelete.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:23:17.274Z",
+              "WhenOpened": "2025-09-03T07:21:53.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "TraineeResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeResponseModel.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeResponseModel.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeResponseModel.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\Models\\TraineeResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ITraineeFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeFetcher.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeFetcher.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeFetcher.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\ITraineeFetcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:15:48.254Z",
+              "WhenOpened": "2025-09-03T08:44:27.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TraineeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TraineeEntity.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TraineeEntity.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TraineeEntity.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TraineeEntity.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "TraineeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeDelete.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeDelete.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeDelete.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeDelete.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:08:18.912Z",
+              "WhenOpened": "2025-09-03T07:22:28.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UniversityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\UniversityRepository.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\UniversityRepository.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\UniversityRepository.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\UniversityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TraineeFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeFetcher.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeFetcher.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeFetcher.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\TraineeFetcher.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:01:48.16Z",
+              "WhenOpened": "2025-09-03T05:36:49.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TrainningPeriodRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TrainningPeriodRepository.cs",
-              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TrainningPeriodRepository.cs",
-              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TrainningPeriodRepository.cs",
-              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Repositories\\TrainningPeriodRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Title": "NameUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\NameUpdateRequest.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\NameUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\NameUpdateRequest.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\NameUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:00:49.826Z",
+              "WhenOpened": "2025-09-03T05:27:19.267Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:42:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainningPeriodRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TrainningPeriodRequestModel.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TrainningPeriodRequestModel.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TrainningPeriodRequestModel.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Business\\TraineeServices\\Models\\TrainningPeriodRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:35:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\University.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\University.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\University.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:29:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrainningPeriod.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TrainningPeriod.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TrainningPeriod.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TrainningPeriod.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\Entities\\TrainningPeriod.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:25:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UniversityEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\UniversityEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\UniversityEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\UniversityEntityTypeConfiguration.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\UniversityEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:20:06.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrainningPeriodEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\TrainningPeriodEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\TrainningPeriodEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\TrainningPeriodEntityTypeConfiguration.cs",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\EntityTypeConfiguration\\TrainningPeriodEntityTypeConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:18:48.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NiftyCoders.Services.TraineeManagement.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj",
+              "RelativeToolTip": "..\\NiftyCoders.Services.TraineeManagement.Persistence\\NiftyCoders.Services.TraineeManagement.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T10:00:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T09:15:25.69Z"
             }
           ]
         }

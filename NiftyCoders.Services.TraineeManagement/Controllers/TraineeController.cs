@@ -1,143 +1,93 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NiftyCoders.Services.TraineeManagement.Business.Models;
-using NiftyCoders.Services.TraineeManagement.Business.Services;
+using NiftyCoders.Services.TraineeManagement.Business.TraineeServices;
+using NiftyCoders.Services.TraineeManagement.Business.TraineeServices.Models;
 
 namespace NiftyCoders.Services.TraineeManagement.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class TraineeController: ControllerBase
+public class TraineeController : ControllerBase
 {
-    private readonly ITraineeServices _traineeServices;
-
-    public TraineeController(ITraineeServices traineeServices)
+    private readonly ITraineeFetcher _traineeFetcher;
+    private readonly ITraineeCreator _traineeCreator;
+    private readonly ITraineeUpdate _traineeUpdate;
+    private readonly ITraineeDelete _traineeDelete;
+    public TraineeController(ITraineeFetcher traineeFetcher, ITraineeCreator traineeCreator, ITraineeUpdate traineeUpdate, ITraineeDelete traineeDelete)
     {
-        _traineeServices = traineeServices;
+        _traineeCreator = traineeCreator;
+        _traineeFetcher = traineeFetcher;
+        _traineeUpdate = traineeUpdate;
+        _traineeDelete = traineeDelete;
     }
 
     [HttpGet]
-    public IActionResult get([FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 10)
+    public IActionResult Get([FromQuery] int pageNumber = 1, [FromQuery]int pageSize=10)
     {
-        return Ok(_traineeServices.GetAllTrainees(pageNumber, pageSize)); 
+        List<TraineeResponseModel> traineeResponseModels = _traineeFetcher.GetAllTrainee(pageNumber, pageSize);
+
+        return Ok(traineeResponseModels);
     }
 
-    [HttpGet]
-    [Route("{id}")]
-    public IActionResult get([FromRoute]int id)
+    [HttpGet("{id}", Name = "GetTraineeWithId")]
+    public IActionResult Get(int id)
     {
-        try
-        {
-            return Ok(_traineeServices.GetTraineeById(id));
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        return Ok(_traineeFetcher.GetTrainee(id));
     }
 
-    [HttpGet]
-    [Route("get-by-email")]
-    public IActionResult getByEmail([FromForm] EmailRequestModel email)
+    [HttpGet("get-with-email")]
+    public IActionResult Get([FromForm] string email)
     {
-        try
-        {
-            return Ok(_traineeServices.GetTraineeByEmail(email));
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        return Ok(_traineeFetcher.GetTraineeWithEmail(email));
     }
 
-    [HttpGet]
-    [Route("get-by-university")]
-    public IActionResult getByUniversity([FromForm] string universityName)
+    [HttpGet("search-name")]
+
+    public IActionResult SearchWithName([FromQuery] string name)
     {
-        try
-        {
-            return Ok(_traineeServices.GetTraineesByUniversity(universityName));
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        return Ok(_traineeFetcher.Search(name));
     }
 
-    [HttpGet]
-    [Route("get-by-year")]
-
-    public IActionResult getByYear([FromQuery] int year)
+    [HttpGet("get-within-period")]
+    public IActionResult GetWithinPeriod([FromBody] TrainningPeriodRequestModel period)
     {
-        try
-        {
-            return Ok(_traineeServices.GetTrineesByYear(year));
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        return Ok(_traineeFetcher.GetAllTraineeWithinPeriod(period));
     }
 
-    [HttpGet]
-    [Route("get-by-trainning-period")]
-    public IActionResult getByTrainningPeriod([FromBody] TrainningPeriodRequestModel trainningPeriod)
+    [HttpGet("get-by-year")]
+    public IActionResult GetInAYear([FromQuery] int year)
     {
-        try
-        {
-            return Ok(_traineeServices.GetTraineesByTrainningPeriod(trainningPeriod));
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        return Ok(_traineeFetcher.GetAllTraineeByYear(year));
     }
+
+
 
     [HttpPost]
-    [Route("add")]
-    public IActionResult add([FromBody] TraineeCreateRequestModel trainee)
+    public IActionResult CreateTrainee([FromBody] TraineeCreateRequestModel trainee)
     {
-        try
-        {
-            _traineeServices.AddTrainee(trainee);
-            return Ok("Trainee added successfully");
-        }
-        catch (Exception ex)
-        {
-            return BadRequest(ex.Message);
-        }
+        int id = _traineeCreator.CreateNewTrainee(trainee);
+        return CreatedAtRoute("GetTraineeWithId", new {id = id}, new { id = id });
+    }
+
+    [HttpPatch("update-name")]
+    public IActionResult UpdateName([FromBody] NameUpdateRequest nameUpdateRequest)
+    {
+         _traineeUpdate.UpdateTraineeName(nameUpdateRequest);
+        return NoContent();
     }
 
     [HttpDelete]
-    [Route("remove")]
-    public IActionResult remove([FromBody] EmailRequestModel email)
+    public IActionResult Delete([FromQuery] string email)
     {
-        try
-        {
-            _traineeServices.RemoveTrainee(email);
-            return Ok("Trainee removed successfully");
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+        _traineeDelete.DeleteTrainee(email);
+        return NoContent();
     }
 
-
-    [HttpPatch]
-    [Route("update-name")]
-    public IActionResult updateName([FromBody] NameUpdateRequestModel trainee)
+    [HttpPut("{email}")]
+    public IActionResult Update([FromBody] TraineeUpdateRequestModel trainee, [FromRoute] string email)
     {
-        try
-        {
-            _traineeServices.UpdateNameOfTrainee(trainee);
-            return Ok("Trainee name updated successfully");
-        }
-        catch (Exception ex)
-        {
-            return NotFound(ex.Message);
-        }
+
+        int id = _traineeUpdate.UpdateTrainee(trainee, email);
+        return CreatedAtRoute("GetTraineeWithId", new { id = id }, new { id = id });
     }
-
-
 
 }

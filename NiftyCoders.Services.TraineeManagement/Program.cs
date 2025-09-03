@@ -1,7 +1,8 @@
 
-using NiftyCoders.Services.TraineeManagement.Business.Services;
-using NiftyCoders.Services.TraineeManagement.Persistence.Repositories;
+using Microsoft.EntityFrameworkCore;
+using NiftyCoders.Services.TraineeManagement.Business.TraineeServices;
 using NiftyCoders.Services.TraineeManagement.Middlewares;
+using NiftyCoders.Services.TraineeManagement.Persistence;
 
 
 namespace NiftyCoders.Services.TraineeManagement
@@ -18,14 +19,20 @@ namespace NiftyCoders.Services.TraineeManagement
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
-            //dependency injections
-            builder.Services.AddScoped<ITraineeServices, TraineeServices>();
+
+            builder.Services
+                .AddScoped<ITraineeFetcher, TraineeFetcher>()
+                .AddScoped<ITraineeCreator, TraineeCreator>()
+                .AddScoped<ITraineeUpdate, TraineeUpdate>()
+                .AddScoped<ITraineeDelete, TraineeDelete>();
 
 
-            builder.Services.AddScoped<TraineeRepository, TraineeRepository>();
-            builder.Services.AddScoped<UniversityRepository, UniversityRepository>();
-            builder.Services.AddScoped<TrainningPeriodRepository, TrainningPeriodRepository>();
 
+            var connectionString = builder.Configuration.GetConnectionString("Default");
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(connectionString);
+            });
 
             var app = builder.Build();
 
