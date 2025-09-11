@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: trainee-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: trainee-app
+  template:
+    metadata:
+      labels:
+        app: trainee-app
+    spec:
+      containers:
+        - name: trainee-container
+          image: shaonwork/trainee-management:latest
+          ports:
+            - containerPort: 8080

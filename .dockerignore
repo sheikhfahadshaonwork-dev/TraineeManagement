@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.git/
+*.user
+*.suo
+*.cache
+*.log
+**/bin/
+**/obj/
+*.lock.json
+node_modules/
+.idea/
+Dockerfile
+docker-compose*.yml
+**/.DS_Store

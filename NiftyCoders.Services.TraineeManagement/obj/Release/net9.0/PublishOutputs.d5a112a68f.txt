@@ -1,0 +1,13 @@
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.exe
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\appsettings.Development.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\appsettings.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.deps.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.runtimeconfig.json
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.pdb
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\Microsoft.OpenApi.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.Business.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.Persistence.dll
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.Business.pdb
+C:\Users\SheikhFahadShaon\Desktop\Trainee Program\09-09-2025\TraineeManagement\out\NiftyCoders.Services.TraineeManagement.Persistence.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZHmZmuvv8U=",
+  "dgSpecHash": "QY3F5YAoR8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\29-08-2025\\NiftyCoders.Services.TraineeManagement\\NiftyCoders.Services.TraineeManagement.csproj",
+  "projectFilePath": "C:\\Users\\SheikhFahadShaon\\Desktop\\Trainee Program\\09-09-2025\\TraineeManagement\\NiftyCoders.Services.TraineeManagement\\NiftyCoders.Services.TraineeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SheikhFahadShaon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "C:\\Users\\SheikhFahadShaon\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
